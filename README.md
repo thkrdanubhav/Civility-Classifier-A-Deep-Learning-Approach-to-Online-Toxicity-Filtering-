@@ -15,6 +15,9 @@ How It Works
 6. **Evaluation**: The model is evaluated using Accuracy, Precision, Recall, and F1-score.
 
 
+Currently :  Working on it again to make it better and scalable !
+
+
 
  Dependencies Required
 
